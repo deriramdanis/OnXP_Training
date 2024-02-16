@@ -2,3 +2,4 @@
 Training Devops OnXP
 - Pengenalan Cloud
 - Pengenalan Linux
+- Pengenalan Git
